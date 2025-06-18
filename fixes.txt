@@ -1,2 +1,4 @@
 this is a file use to fix the bug.
 new bug get fixed
+third bug fixed 
+fourth bug fixed 
