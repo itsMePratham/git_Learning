@@ -1,0 +1,1 @@
+write basic instructions for Git &Githu
